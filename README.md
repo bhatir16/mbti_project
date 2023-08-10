@@ -1,6 +1,6 @@
 # Personality Predictor
 
-This is a personality predicitor trained on kaggle MBTI dataset. You can input post of a person and it can perdict the personality of that person according to Myers-briggs.
+This is a personality predicitor trained on kaggle [MBTI dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type). You can input post of a person and it can perdict the personality of that person according to Myers-briggs.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This is a personality predicitor trained on kaggle MBTI dataset. You can input p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/bhatir16/mbti_project.git
 
 2. Navigate to the directory
 
@@ -26,7 +26,7 @@ This is a personality predicitor trained on kaggle MBTI dataset. You can input p
    ```bash
    pip install -r requirements.txt
 
-5. Paste dataset downloaded from kaggle into the data folder
+5. Paste dataset mbti_1.csv that can be downloaded from kaggle(link above) into the data folder
 
 ## Usage
 
