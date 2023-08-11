@@ -26,7 +26,7 @@ This is a personality predicitor trained on kaggle [MBTI dataset](https://www.ka
    ```bash
    pip install -r requirements.txt
 
-5. Paste dataset mbti_1.csv that can be downloaded from kaggle(link above) into the data folder
+5. Paste dataset mbti_1.csv that can be downloaded from kaggle(link above) into the directory
 
 ## Usage
 
